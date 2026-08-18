@@ -76,10 +76,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Collins526&theme=flat&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Collins526&theme=flat&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
-<sub>The trophy and activity-graph widgets above are free, community-run services and occasionally get overloaded. If a badge looks broken after pushing, wait a few minutes and refresh — it's the host, not your setup. A more reliable mirror for trophies if the default stays down: replace <code>github-profile-trophy.vercel.app</code> with <code>github-profile-trophy-liard-delta.vercel.app</code> in the URL above.</sub>
+<sub>The trophy and activity-graph widgets above are free, community-run services and occasionally get overloaded. If a badge looks broken after pushing, wait a few minutes and refresh — it's the host, not your setup. This README currently points at a volunteer mirror (<code>github-profile-trophy-liard-delta.vercel.app</code>) since the default <code>github-profile-trophy.vercel.app</code> instance is heavily rate-limited. Other known mirrors if this one also stalls: <code>github-profile-trophy-fork-two.vercel.app</code>, <code>github-profile-trophy-winning.vercel.app</code>.</sub>
 
 ---
 
