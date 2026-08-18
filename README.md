@@ -1,11 +1,11 @@
 <!-- ═══════════════════════════════════════════════ HEADER ══ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Collins&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot%20%7C%20Kenya%20%F0%9F%87%B0%F0%9F%87%AA&descSize=18&descAlignY=58" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Collins&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Java%20%26%20Spring%20Boot%20%7C%20Kenya%20%F0%9F%87%B0%F0%9F%87%AA&descSize=18&descAlignY=58" />
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6E40C9&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Collins+%F0%9F%91%8B;Backend+Developer+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+PostgreSQL+%7C+Angular;Building+Scalable+Apps+from+Kenya+%F0%9F%87%B0%F0%9F%87%AA;I+Design+Systems+Before+I+Write+Code+%F0%9F%A7%A9;Always+Learning+%E2%80%94+Always+Shipping+%E2%9C%85)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6E40C9&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Collins+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+Angular+%7C+PostgreSQL;Building+Scalable+Apps+from+Kenya+%F0%9F%87%B0%F0%9F%87%AA;I+Design+Systems+Before+I+Write+Code+%F0%9F%A7%A9;Always+Learning+%E2%80%94+Always+Shipping+%E2%9C%85)](https://git.io/typing-svg)
 
 <br/>
 
@@ -35,7 +35,7 @@
 
 ### Hi, I'm **Collins** 👨‍💻
 
-I'm a **Backend Developer** based in **Kenya 🇰🇪**, focused on building reliable, scalable, and secure applications — APIs, databases, integrations, and the full-stack systems that tie them together.
+I'm a **Full Stack Developer** based in **Kenya 🇰🇪**, building modern, scalable web applications that solve real-world problems — from crafting clean Angular frontends to architecting robust Spring Boot backends, backed by PostgreSQL databases.
 
 I care as much about *how* a system is put together as what it does on screen — most of my "coding time" is actually spent thinking before I touch a keyboard (see [🧩 How I Design & Build](#-how-i-design--build) below).
 
@@ -62,7 +62,7 @@ I care as much about *how* a system is put together as what it does on screen �
 
 | 📋 | Info |
 |---|---|
-| 💼 | Backend Developer |
+| 💼 | Full Stack Developer |
 | 🌍 | Kenya |
 | ✉️ | collinskibet526@gmail.com |
 | 🧱 | Java · Spring Boot · PostgreSQL · Angular |
@@ -113,6 +113,9 @@ I care as much about *how* a system is put together as what it does on screen �
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 </div>
 
@@ -161,11 +164,11 @@ I care as much about *how* a system is put together as what it does on screen �
 | Skill | Level | Progress |
 |---|:---:|---|
 | ⚙️ Backend (Spring Boot / Java) | Expert | `████████████████████` 90% |
+| 🎨 Frontend (Angular / React) | Advanced | `██████████████████░░` 80% |
 | 🔌 REST API Development | Expert | `███████████████████░` 85% |
 | 🗄️ Database Design | Advanced | `██████████████████░░` 80% |
 | 🔐 JWT & Auth Systems | Advanced | `██████████████████░░` 80% |
 | 🐙 Git & Version Control | Expert | `████████████████████` 90% |
-| 🎨 Frontend (Angular) | Intermediate | `██████████████░░░░░░` 65% |
 | 🐳 Docker & DevOps | Intermediate | `████████████░░░░░░░░` 55% |
 | 📐 System Design | Intermediate | `██████████████░░░░░░` 65% |
 | ☁️ Cloud (AWS / GCP) | Beginner | `█████████░░░░░░░░░░░` 40% |
@@ -186,7 +189,8 @@ I treat every project as a small system, not a pile of files. Roughly, this is t
 - Decide what's actually in scope for v1 vs. what's a "later" feature. Most bugs I've shipped came from skipping this step.
 
 ### 2. Architecture sketch
-- **Layering:** Controller → Service → Repository on the backend (Spring Boot), with DTOs at the boundary so the API contract doesn't leak persistence details.
+- **Backend layering:** Controller → Service → Repository (Spring Boot), with DTOs at the boundary so the API contract doesn't leak persistence details.
+- **Frontend:** feature-based module structure (Angular) or feature folders (React) — components stay dumb, state and API calls live in dedicated services/hooks.
 - **Data:** model the PostgreSQL schema with normalization first, then deliberately denormalize only where a read pattern demands it.
 - **Contracts first:** define the REST endpoints (resource, verb, status codes, payload shape) before writing implementation, so frontend and backend can move in parallel.
 
@@ -215,8 +219,8 @@ I treat every project as a small system, not a pile of files. Roughly, this is t
 | 🧭 Discovery | Who uses this, and for what? | Notes, whiteboard sketches, domain modeling |
 | 🏗️ Architecture | How do the pieces talk to each other? | ER diagrams, API contracts, sequence sketches |
 | 🔐 Non-functional | What breaks this at scale or under bad input? | Auth design, validation, caching, logging |
-| ⚒️ Build | Smallest end-to-end slice I can ship? | Spring Boot, Angular, PostgreSQL, Docker |
-| ✅ Verify | Does it actually do what I designed? | JUnit 5, Postman, manual QA |
+| ⚒️ Build | Smallest end-to-end slice I can ship? | Spring Boot, Angular/React, PostgreSQL, Docker |
+| ✅ Verify | Does it actually do what I designed? | JUnit 5, Jest, Postman, manual QA |
 | 🔁 Refine | What does real usage tell me? | Metrics, logs, user feedback, refactors |
 
 </div>
@@ -281,8 +285,9 @@ I treat every project as a small system, not a pile of files. Roughly, this is t
 A full-stack system for digitizing rent collection and property management.
 
 - **Backend:** Spring Boot, layered architecture (Controller → Service → Repository), REST APIs, M-Pesa payment integration
+- **Frontend:** Angular, reactive forms, role-based UI for landlords vs. tenants
 - **Database:** PostgreSQL, normalized schema for properties/tenants/leases/payments with audit timestamps
-- **In progress:** maintenance request workflow, financial reporting dashboard, role-based access for landlords vs. tenants
+- **In progress:** maintenance request workflow, financial reporting dashboard, Dockerizing both services
 
 </td>
 <td width="40%" align="center">
@@ -305,7 +310,7 @@ A full-stack system for digitizing rent collection and property management.
 | 🏗️ Architecture | Microservices, Scalable Backend Design | 🔄 In Progress |
 | 🔐 Security | Spring Security, OAuth2, Application Hardening (DevSecOps) | 🔄 In Progress |
 | 📐 System Design | Scalability, Load Balancing, Caching | 📖 Studying |
-| 🧪 Testing | JUnit 5, Integration Tests | 📖 Studying |
+| 🧪 Testing | JUnit 5, Jest, Integration Tests | 📖 Studying |
 | 📦 Containerization | Docker, orchestration basics | 🔜 Upcoming |
 
 </div>
