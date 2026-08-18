@@ -132,30 +132,6 @@ Platform supporting the management and coordination of electronic waste collecti
 
 ---
 
-## ⚙️ Automation / Live Data Setup
-
-This repo includes three GitHub Actions workflows that keep parts of this profile live without any manual editing:
-
-| Workflow | What it does | Runs |
-|---|---|---|
-| `.github/workflows/stats.yml` | Generates `generated/overview.svg` and `generated/languages.svg` and commits them straight into the repo | every 12 hours |
-| `.github/workflows/snake.yml` | Regenerates the snake SVG from your real contribution graph, pushes it to an `output` branch | every 6 hours |
-| `.github/workflows/metrics.yml` | Regenerates an extended stats card (languages, habits, commit activity) | every 12 hours |
-
-**One-time setup:**
-1. Push this repo, then go to **Settings → Actions → General** and make sure "Read and write permissions" is enabled for the `GITHUB_TOKEN` (needed for all three workflows to commit/push back to the repo).
-2. `stats.yml` and `metrics.yml` need a Personal Access Token with `repo` scope (the default `GITHUB_TOKEN` can't read full account stats). Create one at **Settings → Developer settings → Personal access tokens**, then add it as **two** repo secrets: `ACCESS_TOKEN` (for `stats.yml`) and `METRICS_TOKEN` (for `metrics.yml`) — same token value works for both, just add it under both names.
-3. All three workflows have `workflow_dispatch` enabled — go to the **Actions** tab and click "Run workflow" on each one manually the first time, rather than waiting for the schedule.
-
-**Why images look broken right after setup:**
-- The **snake** image won't render until `snake.yml` has completed at least once — it pushes its output to a branch called `output` that doesn't exist until then.
-- The **stats overview/languages** images won't render until `stats.yml` has run once and committed the `generated/` folder.
-- **Trophies** and the **streak/activity-graph** widgets are free community-run services (not GitHub's) and occasionally get overloaded or renamed — if one looks broken, it's almost always the host, not a mistake in your README. The streak-stats URL in this README already points to the current live host (`streak-stats.demolab.com`) — the old `herokuapp.com` one was shut down.
-
-**A note on activity automation:** I didn't set up a script that pushes empty/placeholder commits every couple of hours purely to keep the contribution graph green. That kind of automation fakes the signal the graph is meant to show — it doesn't reflect real work, and it's easy to spot if anyone checks commit content. If you want the graph to stay consistently green, the more durable approach is small real commits: doc tweaks, tests, a README pass on a side project, issue triage — anything genuine, even 10 minutes a day.
-
----
-
 ## 🤝 Let's Connect
 
 I'm always interested in connecting with developers, engineers, organizations, and people building interesting technology.
