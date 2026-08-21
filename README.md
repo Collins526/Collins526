@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6E40C9&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Collins+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+Angular+%7C+PostgreSQL;Building+Scalable+Apps+from+Kenya+%F0%9F%87%B0%F0%9F%87%AA;I+Design+Systems+Before+I+Write+Code+%F0%9F%92%A1;Always+Learning+%E2%80%94+Always+Shipping+%E2%9C%85)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6E40C9&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Collins+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+Angular+%7C+PostgreSQL;Building+Scalable+Apps+from+Nairobi+Kenya+%F0%9F%87%B0%F0%9F%87%AA;I+Design+Systems+Before+I+Write+Code+%F0%9F%92%A1;Always+Learning+%E2%80%94+Always+Shipping+%E2%9C%85)](https://git.io/typing-svg)
 
 <br/>
 
@@ -28,7 +28,7 @@
 
 ### Hi, I'm **Collins** 👨‍💻
 
-I'm a **Full Stack Developer** based in **Kenya 🇰🇪**, building modern, scalable web applications that solve real-world problems — from crafting clean Angular frontends to architecting robust Spring Boot backends, backed by PostgreSQL databases.
+I'm a **Full Stack Developer** based in **Nairobi, Kenya 🇰🇪**, building modern, scalable web applications that solve real-world problems — from crafting clean Angular frontends to architecting robust Spring Boot backends, backed by PostgreSQL databases.
 
 I care as much about *how* a system is put together as what it does on screen — most of my "coding time" is actually spent thinking before I touch a keyboard (see [🧩 How I Design & Build](#-how-i-design--build) below).
 
@@ -39,7 +39,7 @@ I care as much about *how* a system is put together as what it does on screen �
 💬 &nbsp;Ask me about **Java, Spring Boot, PostgreSQL, REST API design, Application Security**<br/>
 🤝 &nbsp;Open to **collaborations**, **freelance work**, and **open-source**<br/>
 ⚡ &nbsp;Fun fact: I believe in **"Build. Learn. Improve. Repeat."**<br/>
-📍 &nbsp;**Kenya** &nbsp;|&nbsp; 📧 **collinskibet526@gmail.com**
+📍 &nbsp;**Nairobi, Kenya** &nbsp;|&nbsp; 📧 **collinskibet526@gmail.com**
 
 <br/>
 
@@ -56,7 +56,7 @@ I care as much about *how* a system is put together as what it does on screen �
 | 📋 | Info |
 |---|---|
 | 💼 | Full Stack Developer |
-| 🌍 | Kenya |
+| 🌍 | Nairobi, Kenya |
 | ✉️ | collinskibet526@gmail.com |
 | 🧱 | Java · Spring Boot · PostgreSQL · Angular |
 
