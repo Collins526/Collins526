@@ -16,13 +16,6 @@
 
 </div>
 
-> 📡 Badges above are shields.io (queries the GitHub API live, no reliability issues). The **Snake** graphic below is self-hosted via GitHub Actions (see `SETUP.md`), and the **Stats / Top Languages** graphics further down come from a companion `github-stats` repo — neither depends on the public `vercel.app` demo endpoints, which go down or rate-limit fairly often.
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Collins526/Collins526/output/github-contribution-grid-snake-dark.svg?palette=github-dark#gh-dark-mode-only" alt="Contribution snake" />
-  <img src="https://raw.githubusercontent.com/Collins526/Collins526/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Contribution snake" />
-</div>
-
 ---
 
 <!-- ═══════════════════════════════════════════════ ABOUT ME ══ -->
@@ -70,6 +63,17 @@ I care as much about *how* a system is put together as what it does on screen �
 </td>
 </tr>
 </table>
+
+---
+
+<!-- ══════════════════════════════════════════════ SNAKE ══ -->
+
+> 📡 Badges above are shields.io (queries the GitHub API live, no reliability issues). The **Snake** graphic below is self-hosted via GitHub Actions (see `SETUP.md`), and the **Stats / Top Languages** graphics further down come from a companion `github-stats` repo — neither depends on the public `vercel.app` demo endpoints, which go down or rate-limit fairly often.
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Collins526/Collins526/output/github-contribution-grid-snake-dark.svg?palette=github-dark#gh-dark-mode-only" alt="Contribution snake" />
+  <img src="https://raw.githubusercontent.com/Collins526/Collins526/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Contribution snake" />
+</div>
 
 ---
 
