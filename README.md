@@ -1,11 +1,11 @@
 <!-- ═══════════════════════════════════════════════ HEADER ══ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Collins&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Java%20%26%20Spring%20Boot%20%7C%20Kenya%20%F0%9F%87%B0%F0%9F%87%AA&descSize=18&descAlignY=58" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Collins&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Java%20and%20Spring%20Boot%20%7C%20Kenya%20%F0%9F%87%B0%F0%9F%87%AA&descSize=18&descAlignY=58" />
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6E40C9&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Collins+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+Angular+%7C+PostgreSQL;Building+Scalable+Apps+from+Kenya+%F0%9F%87%B0%F0%9F%87%AA;I+Design+Systems+Before+I+Write+Code+%F0%9F%A7%A9;Always+Learning+%E2%80%94+Always+Shipping+%E2%9C%85)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6E40C9&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Collins+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+Angular+%7C+PostgreSQL;Building+Scalable+Apps+from+Kenya+%F0%9F%87%B0%F0%9F%87%AA;I+Design+Systems+Before+I+Write+Code+%F0%9F%92%A1;Always+Learning+%E2%80%94+Always+Shipping+%E2%9C%85)](https://git.io/typing-svg)
 
 <br/>
 
