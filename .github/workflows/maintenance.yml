@@ -23,8 +23,8 @@ jobs:
 
       - name: Configure Git
         run: |
-          git config user.name "kiptooMannu"
-          git config user.email "kkgg7241@gmail.com"
+          git config user.name "Collins526"
+          git config user.email "collinskibet526@gmail.com"
 
       - name: Update maintenance log
         run: |
