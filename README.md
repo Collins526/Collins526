@@ -366,5 +366,5 @@ I'm always open to **interesting projects**, **freelance gigs**, **open-source c
 
 <div align="center">
   <sub>⭐ Star a repo if you find my work useful — it really motivates me to keep building! 🙏</sub><br/>
-  <sub>Made with ❤️ from Kenya 🇰🇪</sub>
+  <sub>Made with ❤️ from Nairobi Kenya 🇰🇪</sub>
 </div>
