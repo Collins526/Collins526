@@ -352,7 +352,7 @@ I'm always open to **interesting projects**, **freelance gigs**, **open-source c
 
 <br/>
 
-📍 **Kenya 🇰🇪** &nbsp;|&nbsp; 💼 **Open to Opportunities**
+📍 **Nairobi Kenya 🇰🇪** &nbsp;|&nbsp; 💼 **Open to Opportunities**
 
 </div>
 
