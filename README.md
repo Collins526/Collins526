@@ -257,7 +257,7 @@ I treat every project as a small system, not a pile of files. Roughly, this is t
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Collins526&theme=tokyo-night&hide_border=true&area=true&custom_title=Collins'%20Contribution%20Graph" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Collins526&theme=tokyo-night&hide_border=true&area=true&custom_title=Collins'%20Contribution%20Graph" alt="Contribution Graph" />
 </div>
 
 ---
@@ -265,8 +265,10 @@ I treat every project as a small system, not a pile of files. Roughly, this is t
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Collins526&theme=flat&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Collins526&theme=flat&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </div>
+
+---
 
 ---
 
