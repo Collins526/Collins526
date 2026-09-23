@@ -3,7 +3,7 @@ name: Generate Metrics
 on:
   schedule:
     # Runs every 12 hours
-    - cron: "0 */2 * * *"
+    - cron: "17 */12 * * *"
   workflow_dispatch: {}
 
 permissions:
