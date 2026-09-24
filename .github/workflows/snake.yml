@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    # Runs every 6 hours — regenerates the SVG from your real contribution graph
+    # Runs every 2 hours — regenerates the SVG from your real contribution graph
     - cron: "17 */2 * * *"
   workflow_dispatch: {}
   push:
